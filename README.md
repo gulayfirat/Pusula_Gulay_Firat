@@ -21,6 +21,6 @@ Key columns:
 ---
 
 ## 🔍 Tasks Completed
-1. **Exploratory Data Analysis (EDA):**  
+1. **Exploratory Data Analysis (EDA)**  
 
 
