@@ -22,17 +22,5 @@ Key columns:
 
 ## 🔍 Tasks Completed
 1. **Exploratory Data Analysis (EDA):**  
-   - Summary statistics  
-   - Missing value analysis  
-   - Univariate and bivariate visualizations  
-   - Correlation analysis  
 
-2. **Data Preprocessing:**  
-   - Missing value imputation  
-   - Categorical encoding  
-   - Handling multi-valued fields (e.g., `KronikHastalik`, `Alerji`)  
-   - Outlier detection and treatment  
-   - Preparing clean, consistent dataset  
-
----
 
